@@ -5,8 +5,14 @@ class Solution(object):
         :rtype: int
         """
 
-        nm = len(nums)
-        for i in range(0,nm+1):
-            if i not in nums:
-                return i
+       # nm = len(nums)
+     
+      #  for i in range(0,nm+1):
+       #     if i not in nums:
+        #        return i
+
+        n = len(nums)
+        expectedSum = (n*(n+1))//2
+        actualSum = sum(nums)
+        return expectedSum-actualSum
         
