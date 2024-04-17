@@ -1,11 +1,15 @@
-class Solution(object):
-    def containsDuplicate(self, nums):
-        seen = {}
-     
-        for item in nums:
-            if item  in seen and seen[item] == "visited":
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        data = nums
+        visit = {}
+
+        for i in data:
+            if i in visit and visit[i] == "visited":
                 return True
-            seen[item] = "visited"
-          
+            visit[i] = "visited"
         
         return False
+        
+
+            
+                
