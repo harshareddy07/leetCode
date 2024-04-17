@@ -5,6 +5,10 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        # With re
+        # p = re.sub('[^a-z0-9]', '', s.lower())
+        # # print(p)
+        # return p == p[::-1]
         start = 0
         end = len(s) -1 
         
