@@ -12,7 +12,5 @@ class Solution(object):
         
         else:
             ss1 = s+s
-            if goal in ss1:
-                return True
-            else:
-                return False
+            return  goal in ss1
+                
