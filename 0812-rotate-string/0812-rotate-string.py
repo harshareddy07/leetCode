@@ -10,7 +10,6 @@ class Solution(object):
         if len(s) != len(goal):
             return False
         
-        else:
-            ss1 = s+s
-            return  goal in ss1
+      
+        return  goal in s+s
                 
