@@ -14,6 +14,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshareddy07/leetCode/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
