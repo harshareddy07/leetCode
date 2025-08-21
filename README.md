@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
@@ -45,9 +46,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
