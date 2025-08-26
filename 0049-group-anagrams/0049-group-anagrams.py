@@ -17,3 +17,14 @@ class Solution(object):
             res[tuple(count)].append(s)
 
         return res.values()
+
+**method - 2**
+If you don’t want to use defaultdict, you can use dict + setdefault:
+
+res = {}
+for s in strs:
+    count = [0] * 26
+    for c in s:
+        count[ord(c) - ord("a")] += 1
+    key = tuple(count)
+    res.setdefault(key, []).append(s)
