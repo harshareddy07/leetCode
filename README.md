@@ -15,6 +15,7 @@
 | [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshareddy07/leetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/harshareddy07/leetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/harshareddy07/leetCode/tree/master/0056-merge-intervals) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
