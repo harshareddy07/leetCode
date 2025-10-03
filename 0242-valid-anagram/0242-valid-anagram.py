@@ -1,19 +1,17 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        return sorted(s) == sorted(t)
-       # return Counter(s) == Counter(t)
-
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
-           return False
+            return False
 
-        counterS = {}
-        counterT = {}
+        countS = {}
+        countT = {}
+
         for i in range(len(s)):
-            counterS[s[i]] = counterS.get(s[i], 0) + 1
-            counterT[t[i]] = counterT.get(t[i], 0) + 1
+            countS[s[i]] = countS.get(s[i], 0) + 1
+            countT[t[i]] = countT.get(t[i], 0) + 1
         
-        for ct in counterS:
-            if counterS[ct] != counterT.get(ct, 0):
+        for ct in countS:
+            if countS[ct] !=  countT.get(ct, 0):
                 return False
-
+        
         return True
