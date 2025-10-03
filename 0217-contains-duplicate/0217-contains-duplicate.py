@@ -1,15 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        data = nums
-        visit = {}
-
-        for i in data:
-            if i in visit and visit[i] == "visited":
+        visited = {}
+        for index, num in enumerate(nums):
+            if num in visited:
                 return True
-            visit[i] = "visited"
-        
+            visited[num] = index
+
         return False
         
-
-            
-                
