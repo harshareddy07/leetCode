@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/harshareddy07/leetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/harshareddy07/leetCode/tree/master/0812-rotate-string) |
 ## String Matching
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/harshareddy07/leetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
