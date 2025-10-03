@@ -1,34 +1,24 @@
-import re
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        # With re
-        # p = re.sub('[^a-z0-9]', '', s.lower())
-        # # print(p)
-        # return p == p[::-1]
-        start = 0
-        end = len(s) -1 
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
         
-        while start < end:
-            while start < end and not isAlphaNum(s[start]):
-                start += 1
-            while end > start and not isAlphaNum(s[end]):
-                end -= 1
+        l = 0
+        r = len(s) - 1
+        while l < r:
+            while l < r and not isAlphanum(s[l]):
+                l += 1
+            while r > l and not isAlphanum(s[r]):
+                r -= 1
 
-            if s[start].lower() != s[end].lower():
+            if s[l].lower()  != s[r].lower() :
                 return False
-            start = start +1
-            end = end - 1
+            l += 1
+            r -= 1
 
         return True
-    
-# Check whether the characters are special or not
-def isAlphaNum(c):
+
+def isAlphanum(c):
     return (ord('A') <= ord(c) <= ord('Z') or 
         ord('a') <= ord(c) <= ord('z') or 
         ord('0') <= ord(c) <= ord('9') )
 
-        
+
