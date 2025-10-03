@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/harshareddy07/leetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshareddy07/leetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshareddy07/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshareddy07/leetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshareddy07/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
