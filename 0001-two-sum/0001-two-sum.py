@@ -1,10 +1,8 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        visit = {}
-        for index, n in enumerate(nums):
-            rem = target - n 
-            if rem in visit:
-                return [visit.get(rem), index]
-            visit[n] = index
-        return
-        
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        visited  = {}
+        for index, item in enumerate(nums):
+            rem = target - item
+            if rem in visited :
+                return [visited.get(rem), index]
+            visited[item] = index
