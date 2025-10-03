@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/harshareddy07/leetCode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/harshareddy07/leetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/harshareddy07/leetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
