@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/harshareddy07/leetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/harshareddy07/leetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshareddy07/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/harshareddy07/leetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshareddy07/leetCode/tree/master/0053-maximum-subarray) |
@@ -40,12 +41,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshareddy07/leetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
