@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/harshareddy07/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/harshareddy07/leetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/harshareddy07/leetCode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -48,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshareddy07/leetCode/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
