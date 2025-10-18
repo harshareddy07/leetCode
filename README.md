@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/harshareddy07/leetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
