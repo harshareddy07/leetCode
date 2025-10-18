@@ -38,6 +38,7 @@
 | [0048-rotate-image](https://github.com/harshareddy07/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harshareddy07/leetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/harshareddy07/leetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
@@ -85,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/harshareddy07/leetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshareddy07/leetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
