@@ -52,6 +52,7 @@
 | [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
@@ -64,6 +65,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/harshareddy07/leetCode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -128,4 +130,9 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
