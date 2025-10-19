@@ -63,6 +63,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshareddy07/leetCode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/harshareddy07/leetCode/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0141-linked-list-cycle](https://github.com/harshareddy07/leetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshareddy07/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -143,4 +146,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshareddy07/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
