@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshareddy07/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -99,6 +100,7 @@
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harshareddy07/leetCode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
