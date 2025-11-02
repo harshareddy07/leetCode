@@ -9,6 +9,7 @@
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshareddy07/leetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/harshareddy07/leetCode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -59,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshareddy07/leetCode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
