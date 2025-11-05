@@ -1,21 +1,15 @@
-class Solution(object):
-    def isValid(self, s):
-        
-        stack = []    
-        mapByCloseBrackets = {
-            ']' : '[',
-            '}' : '{',
-            ')' : "("
-        }
-
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        closeToOpen = { "}" : "{", "]": "[", ")": "(" }
 
         for c in s:
-            if c in mapByCloseBrackets :
-                if stack and stack[-1] == mapByCloseBrackets[c]:
+            if c in closeToOpen:
+                if stack and stack[-1] ==  closeToOpen.get(c) :
                     stack.pop()
                 else:
                     return False
             else:
                 stack.append(c)
-
+        
         return True if not stack else False
