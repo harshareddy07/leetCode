@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
+| [0739-daily-temperatures](https://github.com/harshareddy07/leetCode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0225-implement-stack-using-queues](https://github.com/harshareddy07/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshareddy07/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/harshareddy07/leetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshareddy07/leetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harshareddy07/leetCode/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
