@@ -129,12 +129,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshareddy07/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshareddy07/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshareddy07/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshareddy07/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -177,4 +180,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/harshareddy07/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshareddy07/leetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshareddy07/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
