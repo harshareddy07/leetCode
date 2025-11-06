@@ -5,12 +5,12 @@ class Solution:
         rows, cols = len(grid), len(grid[0])
         islands = 0 
         visit = set()
+        directions  = [[1,0], [-1,0], [0,1], [0,-1]]
 
         def bfs(r, c):
             q = collections.deque()
             visit.add((r,c))
             q.append((r,c)) 
-            directions  = [[1,0], [-1,0], [0,1], [0,-1]]
             while q:
                 row, col = q.popleft()
                 for dr, dc in directions:
