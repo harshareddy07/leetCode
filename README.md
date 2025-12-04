@@ -40,6 +40,7 @@
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
 | [0733-flood-fill](https://github.com/harshareddy07/leetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/harshareddy07/leetCode/tree/master/0739-daily-temperatures) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshareddy07/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/harshareddy07/leetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshareddy07/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshareddy07/leetCode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshareddy07/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
