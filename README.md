@@ -35,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/harshareddy07/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshareddy07/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/harshareddy07/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshareddy07/leetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@
 | [0036-valid-sudoku](https://github.com/harshareddy07/leetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harshareddy07/leetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/harshareddy07/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshareddy07/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshareddy07/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harshareddy07/leetCode/tree/master/0146-lru-cache) |
@@ -205,6 +207,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshareddy07/leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/harshareddy07/leetCode/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
