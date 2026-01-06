@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/harshareddy07/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/harshareddy07/leetCode/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/harshareddy07/leetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/harshareddy07/leetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/harshareddy07/leetCode/tree/master/0739-daily-temperatures) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshareddy07/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshareddy07/leetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshareddy07/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0704-binary-search](https://github.com/harshareddy07/leetCode/tree/master/0704-binary-search) |
 ## Union Find
 |  |
 | ------- |
