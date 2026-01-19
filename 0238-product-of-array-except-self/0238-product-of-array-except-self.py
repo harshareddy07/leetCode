@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def productExceptSelf(self, nums):
         res = [1] * len(nums)
 
