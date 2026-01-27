@@ -17,6 +17,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/harshareddy07/leetCode/tree/master/0812-rotate-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/harshareddy07/leetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0383-ransom-note](https://github.com/harshareddy07/leetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshareddy07/leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/harshareddy07/leetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshareddy07/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
