@@ -38,6 +38,7 @@
 | [0057-insert-interval](https://github.com/harshareddy07/leetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/harshareddy07/leetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harshareddy07/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/harshareddy07/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harshareddy07/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshareddy07/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harshareddy07/leetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -252,8 +253,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshareddy07/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/harshareddy07/leetCode/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshareddy07/leetCode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshareddy07/leetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
