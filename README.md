@@ -61,6 +61,7 @@
 | [0070-climbing-stairs](https://github.com/harshareddy07/leetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/harshareddy07/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshareddy07/leetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/harshareddy07/leetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/harshareddy07/leetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -221,6 +222,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshareddy07/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harshareddy07/leetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/harshareddy07/leetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshareddy07/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harshareddy07/leetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search Tree
@@ -262,4 +264,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshareddy07/leetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/harshareddy07/leetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
